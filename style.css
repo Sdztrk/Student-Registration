@@ -34,3 +34,9 @@ th{
     background-color: #d96459;
     color: white;
 }
+/* to make the table responsive */
+@media screen and (max-width: 600px) {
+    table{
+        width: 100%;
+    }
+}
