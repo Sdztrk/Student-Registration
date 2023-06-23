@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    /* color: #d96459; */
+    color: #d96459;
+    font-family: monospace;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+table{
+    border-collapse: collapse;
+    /* making table little smaller */
+    width: 60%;
+    /* align the table middle and givnig margin-top */
+    margin: 0 auto;
+    margin-top: 50px;
+
+    color: #d96459;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: left;
+}
+
+/* make tr better to see */
+tr:nth-child(odd) {
+    background-color: #f2f2f2
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+th{
+    background-color: #d96459;
+    color: white;
+}
