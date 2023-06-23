@@ -1,5 +1,5 @@
 # Description
-Every new student which will be added into the student list array will be displayed in the student table
+Every new student which will be added into the student list array will be displayed in the student table.
 
 ## Student Registration
 
